@@ -27,6 +27,8 @@ Following are the <b>Main libraries </b> that is used in the project
 <h1>Result </h1>
 <p>
 The result was the pretty good and gives accuracy of 79 % with 40 epochs ,the result may can be improve if the  no. of epochs increase ,I used relu and softmax activation function in the final dense layer ..further more on my blog 
+<h4>Evaluating Metric:</h4>
+The metrics i used for evaluate the performance of my model is categorical cross entropy it is a loss function used for multi classes classification problem like we have the dog breed classification because there are more than 2 classes of dog's breed we have. There are many other loss function for the different problems like for prediction problems we have Mean Squared Error one of the best loss function for prediction problems
 </p>
 <h1>Acknowledgement</h1> 
 <p>From the project i have found that this is difficult for a model to differentiate a human face and a dog face beacuse both faces have same no of ears nose and mouth,but for a CNN it is easy to differentiate them with differentiate in pixel that both have differnt  </p>
